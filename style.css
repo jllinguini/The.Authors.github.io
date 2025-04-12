@@ -1,5 +1,7 @@
 :link index.html
-h1 {
+:link member.html
+body {
+    background: grey;
     text-align: center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: normal;
