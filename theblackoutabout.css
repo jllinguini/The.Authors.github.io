@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(200,180,150);
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    font-weight: bold;
+    font-size: large;
+    border-radius: 0%;
+    text-decoration-color: transparent;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+}
+button{
+    background-color:aquamarine;
+    border-width: 1mm;
+    border-color: black;
+}
+hr{
+    border-top: 1mm color black;
+}
+img{
+    border-color: black;
+    border:1mm;
+}
+}
